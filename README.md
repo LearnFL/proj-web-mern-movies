@@ -3,6 +3,7 @@
 
 ### Process
 Main focus of this project was to build API using MERN stack. App does not implement proper Login as it was not an objective. </br>
+Some css was implemented using 'stylesheet' and some using useState hook. </br> 
 This project was inspired by Greg Lim and his book.
 
 ### Watch video on YouTube
