@@ -1,0 +1,16 @@
+.LoginForm {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  background-color: white;
+  padding: 20px;
+}
+
+.FormGroup {
+  margin-bottom: 10px;
+}
+
+.LoginSubmitButton {
+  margin-top: 25px;
+}

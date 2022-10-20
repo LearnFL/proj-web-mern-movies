@@ -1,0 +1,14 @@
+.NavLink {
+  text-decoration: none;
+  color: grey;
+}
+
+.NavLink:hover {
+  text-decoration: underline;
+  color: #a5b1c2;
+}
+
+.logo {
+  width: 50px;
+  margin-right: 10px;
+}

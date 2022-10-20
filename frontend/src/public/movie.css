@@ -1,0 +1,7 @@
+.UserActionLink{
+  text-decoration: none;
+}
+
+.UserActionLink:hover{
+  text-decoration: underline;
+}
